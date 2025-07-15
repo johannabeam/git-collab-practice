@@ -1,8 +1,10 @@
 ---
 name: Design Discussion
-about:
+about: About designs, for discussions
 assignee:
 label:
-Discussion:
-Motivation:
 ---
+
+# Discussion
+# Description
+# Motivation
