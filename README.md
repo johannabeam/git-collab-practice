@@ -21,3 +21,6 @@ Hey everyone! This is the new `README`!
 
 ### LMH
 Attempt at making a pull request
+
+## Birds
+Birds are evrywhere on campus! be Careful.
